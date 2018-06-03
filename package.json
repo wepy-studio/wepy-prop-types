@@ -1,0 +1,24 @@
+{
+  "name": "wepy-prop-types",
+  "version": "0.1.0",
+  "description": "wepy属性类型检测",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wepy-studio/wepy-prop-types.git"
+  },
+  "keywords": [
+    "wepy",
+    "props",
+    "prop-types"
+  ],
+  "author": "wepy-studio",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/wepy-studio/wepy-prop-types/issues"
+  },
+  "homepage": "https://github.com/wepy-studio/wepy-prop-types#readme"
+}

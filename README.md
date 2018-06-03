@@ -15,7 +15,7 @@ import {boolType,stringType,numberType,unknownType} from 'wepy-prop-types';
 boolType(defaultValue);//用于bool属性类型
 stringType(defaultValue);//用于string属性类型
 numberType(defaultValue);//用于number属性类型
-unknownType(defaultType);//用于其他对象属性类型
+unknownType(defaultValue);//用于其他对象属性类型
 
 //defaultValue代表设置的默认值
 
